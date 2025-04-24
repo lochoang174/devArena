@@ -1,6 +1,11 @@
 # DevArena
 
 DevArena is a cutting-edge real-time coding competition platform built with a modern microservices architecture. The platform's core strength lies in its sophisticated real-time communication system, combining Socket.IO for client-server interactions and gRPC streaming for inter-service communication.
+## Demo
+
+
+https://github.com/user-attachments/assets/abb30f8f-e7e6-4a28-88fd-783f0b91898d
+
 
 ## Core Architecture
 
