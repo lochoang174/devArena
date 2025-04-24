@@ -62,7 +62,6 @@ The platform is built on a robust microservices architecture with three main ser
 - Socket.IO server
 - gRPC with streaming support
 - JWT authentication
-- GraphQL for flexible data querying
 
 ## Key Features
 
